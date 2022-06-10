@@ -1,6 +1,6 @@
 {
-  "name": "fnddev",
-  "license": "UNLICENSED",
+  "name": "The-graph-foundationapp-subgraph-workshop",
+  "license": "MIT",
   "scripts": {
     "codegen": "graph codegen",
     "build": "graph build",
